@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PayWebsite/static/css/main.073c9b0a.css",
+    "main.js": "/PayWebsite/static/js/main.23b1e1be.js",
+    "static/js/787.a12a3abf.chunk.js": "/PayWebsite/static/js/787.a12a3abf.chunk.js",
+    "static/media/logo.svg": "/PayWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PayWebsite/index.html",
+    "main.073c9b0a.css.map": "/PayWebsite/static/css/main.073c9b0a.css.map",
+    "main.23b1e1be.js.map": "/PayWebsite/static/js/main.23b1e1be.js.map",
+    "787.a12a3abf.chunk.js.map": "/PayWebsite/static/js/787.a12a3abf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.23b1e1be.js"
+  ]
+}
